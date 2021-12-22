@@ -1,1 +1,1 @@
-Python for Data Science, AI & Development Practice
+Notebooks for Python for Data Science, AI & Development course 
